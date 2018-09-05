@@ -1,0 +1,10 @@
+.personDiv {
+  width: 400px;
+  margin: 30px auto;
+  border: grey 1px solid;
+  text-align: center;
+  padding: 30px;
+  box-shadow: 5px 5px 5px gray;
+  border-radius: 5px;
+  color: rgb(6, 31, 53);
+}
